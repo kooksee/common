@@ -9,7 +9,7 @@ import (
 	"bytes"
 	"math/big"
 
-	"github.com/kooksee/uspnet/common/hexutil"
+	"github.com/kooksee/common/hexutil"
 )
 
 const (

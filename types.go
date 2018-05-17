@@ -23,8 +23,8 @@ import (
 	"math/rand"
 	"reflect"
 
-	"github.com/kooksee/uspnet/common/hexutil"
-	"github.com/kooksee/uspnet/crypto/sha3"
+	"github.com/kooksee/common/hexutil"
+	"github.com/kooksee/crypt/sha3"
 	"bytes"
 )
 

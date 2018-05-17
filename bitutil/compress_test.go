@@ -21,7 +21,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/kooksee/uspnet/common/hexutil"
+	"github.com/kooksee/common/hexutil"
 )
 
 // Tests that data bitset encoding and decoding works and is bijective.

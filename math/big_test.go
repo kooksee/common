@@ -22,7 +22,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/kooksee/uspnet/common"
+	"github.com/kooksee/common"
 )
 
 func TestHexOrDecimal256(t *testing.T) {

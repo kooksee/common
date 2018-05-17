@@ -19,7 +19,7 @@ package number
 import (
 	"math/big"
 
-	"github.com/kooksee/uspnet/common"
+	"github.com/kooksee/common"
 )
 
 var tt256 = new(big.Int).Lsh(big.NewInt(1), 256)

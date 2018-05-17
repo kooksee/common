@@ -3,7 +3,7 @@ package keystore
 import (
 	"crypto/ecdsa"
 
-	"github.com/kooksee/uspnet/common"
+	"github.com/kooksee/common"
 )
 
 const (

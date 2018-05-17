@@ -15,9 +15,9 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/kooksee/uspnet/common/math"
-	"github.com/kooksee/uspnet/common"
-	"github.com/kooksee/uspnet/crypto"
+	"github.com/kooksee/common/math"
+	"github.com/kooksee/common"
+	"github.com/kooksee/crypt"
 	"golang.org/x/crypto/scrypt"
 )
 

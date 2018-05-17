@@ -23,7 +23,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kooksee/uspnet/log"
+	"github.com/kooksee/log"
 	"github.com/rcrowley/go-metrics"
 	"github.com/rcrowley/go-metrics/exp"
 )

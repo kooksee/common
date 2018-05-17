@@ -19,7 +19,7 @@ import (
 	"net"
 	"sync"
 
-	"github.com/kooksee/uspnet/errors"
+	"github.com/kooksee/common/errors"
 )
 
 type Listener interface {

@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/kooksee/uspnet/pool"
+	"github.com/kooksee/common/pool"
 )
 
 type UdpPacket struct {

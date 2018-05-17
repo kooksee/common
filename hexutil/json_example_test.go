@@ -20,7 +20,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/kooksee/uspnet/common/hexutil"
+	"github.com/kooksee/common/hexutil"
 )
 
 type MyType [5]byte
